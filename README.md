@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Sergio Pedrosa Nahirny 👋
 
-<!--
-**spn1994/spn1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I'm a Full stack javascript. And I'm Studying analysis and systems development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+- Main Language: 'JavaScript'
+- Backend: 'Nodejs'
+- Frontend: 'HTML5','CSS3','Reactjs','JavaScript'
+- Layout Design: 'Figma'
+- Version code control: Git & Github
+- tools: 'VsCode'.
+
+#### Contacts
+
+- Email: spn1994@gmail.com
+- Linkedin: [sergionahirny/](https://www.linkedin.com/in/sergionahirny/)
