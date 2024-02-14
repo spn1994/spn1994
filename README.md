@@ -6,7 +6,7 @@ I'm a Full stack javascript. And I'm Studying analysis and systems development a
 
 #### Current stack
 - Main Language: 'JavaScript'
-- Backend: 'Nodejs'
+- Backend: 'Nodejs' 'TypeScript'
 - Frontend: 'HTML5','CSS3','Reactjs','JavaScript'
 - Layout Design: 'Figma'
 - Version code control: Git & Github
