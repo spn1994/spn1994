@@ -2,7 +2,7 @@
 
 #### About
 
-I'm a Full stack javascript. And I'm Studying analysis and systems development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
+I'm a Full stack javascript. And I'm analysis and systems development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
 
 #### Current stack
 - Main Language: 'JavaScript'
