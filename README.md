@@ -5,8 +5,8 @@
 I'm a Full stack javascript. And I'm analysis and systems development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
 
 #### Current stack
-- Main Language: 'JavaScript'
-- Backend: 'Nodejs' 'TypeScript'
+- Main Language: 'TypeScript' 'Java'
+- Backend: 'Nodejs' 'TypeScript''Java'
 - Frontend: 'HTML5','CSS3','Reactjs','JavaScript'
 - Layout Design: 'Figma'
 - Version code control: Git & Github
