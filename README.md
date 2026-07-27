@@ -2,15 +2,15 @@
 
 #### About
 
-I'm a Developer. And I'm analysis and systems development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
+I'm a Java Developer and a student of Analysis and Systems Development at [PUC-PR] (https://www.pucpr.br) and [Rockeseat](https://www.rocketseat.com.br/).
 
 #### Current stack
-- Main Language: 'TypeScript' 'Java'
+- Main Language: 'Java' 'NODE'
 - Backend: 'Nodejs' 'TypeScript''Java'
-- Frontend: 'HTML5','CSS3','Reactjs','JavaScript'
+- Frontend: 'Reactjs'
 - Layout Design: 'Figma'
 - Version code control: Git & Github
-- tools: 'VsCode'.
+- tools: 'VsCode', 'Claude Code'
 
 #### Contacts
 
